@@ -2,6 +2,6 @@
 
 - Web Crawling
 - Web Scrapping
-- Open API
+- NAVER Search API Service
 - Get Email contents
-- BeautifulSoup
+- 
