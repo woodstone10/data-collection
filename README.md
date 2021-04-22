@@ -4,6 +4,7 @@
 - Web Scrapping
 - NAVER Search API Service
 - Pandas Remote Data Access
+- Open API
 
 # Data Visualization
 
